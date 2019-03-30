@@ -1,9 +1,11 @@
 # Kubernetes-Master-Class-by-Rancher
 
+http://e.vhall.com/user/home/20160226
 
-## Rancher Labs全新一季在线培训课程【Kubernetes Master Class】将于下周开始正式启航！整季培训将有共计8期课程，为期两个月，每周三晚20:30开课。    
+
+### Rancher Labs全新一季在线培训课程【Kubernetes Master Class】将于下周开始正式启航！整季培训将有共计8期课程，为期两个月，每周三晚20:30开课。    
  
-## 全部课程现已上线，坐席有限，点击下方课程主题，即可跳转至相应课程页预约报名。    
+### 全部课程现已上线，坐席有限，点击下方课程主题，即可跳转至相应课程页预约报名。    
 
 
  

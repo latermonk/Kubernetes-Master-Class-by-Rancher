@@ -1,3 +1,11 @@
+
+# Training 
+**历年培训**   
+https://blog.csdn.net/CSDN_duomaomao/article/details/76156334   
+
+
+
+
 # Kubernetes-Master-Class-by-Rancher
 
 http://e.vhall.com/user/home/20160226
